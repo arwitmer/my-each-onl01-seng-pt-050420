@@ -2,6 +2,6 @@ def my_each(words)
   if block_given?
     i = 0
     
-    while i 
+    while i < my_each
   
 end
