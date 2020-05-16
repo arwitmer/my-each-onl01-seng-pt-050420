@@ -1,2 +1,3 @@
-def my_each(col)
+def my_each(words)
+  
 end
