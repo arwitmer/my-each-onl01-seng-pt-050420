@@ -6,6 +6,6 @@ def my_each(words)
     i += 1
     end
     
-    my_each(words)
+    (words)
     
 end
